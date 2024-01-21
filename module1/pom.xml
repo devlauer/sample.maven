@@ -1,0 +1,14 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>de.elnarion.sample</groupId>
+        <artifactId>sample.maven</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>sample.maven.module1</artifactId>
+    <properties>
+        <java.version>17</java.version>
+    </properties>
+
+
+</project>
