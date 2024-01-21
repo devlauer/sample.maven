@@ -3,7 +3,7 @@
     <parent>
         <groupId>de.elnarion.sample</groupId>
         <artifactId>sample.maven</artifactId>
-        <version>1.0.1</version>
+        <version>1.0.2-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>sample.maven.module2</artifactId>
