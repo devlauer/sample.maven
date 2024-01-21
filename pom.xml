@@ -16,4 +16,10 @@
         <module>bom</module>
     </modules>
 
+    <scm>
+        <connection>scm:git:ssh://git@github.com/devlauer/sample.maven.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/devlauer/sample.maven.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
 </project>
